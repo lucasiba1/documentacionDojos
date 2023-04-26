@@ -95,5 +95,4 @@ void titilar_y_bocina(int led,int seg ,int tono, int pausa){
 
 [Proyecto](https://www.tinkercad.com/things/1gNFAecIVWj-trabajo-semaforo/editel?sharecode=M5SdX0AJQG7TelWFGErJqWsMhgbzaXoqOu697lifn-U)
 Tinkercad
-Login | Tinkercad
-Imagen
+
