@@ -1,4 +1,5 @@
 # documentacionDojos
+Alumno: Lucas Ibarrola
 ![Arduino_Logo_Registered svg](https://user-images.githubusercontent.com/109388659/234407445-1de9faf7-fd9b-4d31-9f8d-089b83dd0892.png)
 ## Integrantes
 
